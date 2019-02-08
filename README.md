@@ -1,3 +1,3 @@
-# sample pelican site
+# Sample Pelican Site
 
 CMPUT 404 Lab 5
